@@ -5,6 +5,7 @@
     }
     .banner-content-wrapper{
         flex-direction: column;
+        width: 320px;
     }
     .banner-content-wrapper__text{
         margin: 0;
