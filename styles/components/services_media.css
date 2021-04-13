@@ -1,0 +1,12 @@
+@media (max-width: 320px) {
+    .services-content-wrapper {
+        flex-direction: column;
+    }
+    .shopping-cart-content-wrapper__container__image img{
+        max-width: 320px;
+    }
+    .shopping-cart-content-wrapper__container__text{
+        width: 100% !important;
+    }
+}
+

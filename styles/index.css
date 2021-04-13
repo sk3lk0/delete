@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+@import "common/index.css";
+@import "components/header.css";
+@import "components/header_media.css";
+@import "components/banner.css";
+@import "components/banner_media.css";
+@import "components/services.css";
+@import "components/services_media.css";
+@import "components/shopping_cart.css";
+@import "components/shopping_cart_media.css";
+@import "components/footer.css";

@@ -1,0 +1,31 @@
+header .header-content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo {
+    height: 100%;
+}
+
+header menu {
+    display: flex;
+}
+
+header menu li {
+    list-style: none;
+    padding: 25px 10px;
+    border-bottom: 2px solid transparent;
+    transition: .3s border-bottom-color;
+}
+
+header menu li.active,
+header menu li:hover {
+    border-bottom-color: var(--secondary-color);
+}
+
+header menu a {
+    color: gray;
+    font-size: var(--font-xlg);
+    text-decoration: none;
+}

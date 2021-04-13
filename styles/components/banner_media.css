@@ -1,0 +1,13 @@
+@media (max-width: 320px) {
+    .banner-content-wrapper__image img{
+        padding-left: 0px;
+        max-width: 320px;
+    }
+    .banner-content-wrapper{
+        flex-direction: column;
+    }
+    .banner-content-wrapper__text{
+        margin: 0;
+    }
+}
+
